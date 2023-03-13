@@ -1,0 +1,20 @@
+PROGETTO
+
+Nostre scadenze: 
+Entro il 22/23 Marzo: Modulo 1 
+Entro il 05/06 Marzo: Modulo 2
+
+Consegna parziale progetto Mod 1 e 2: 20 Aprile
+
+MODULO 1
+- Data understading and preparation
+Tutte insieme, per decidere come trattare il dataset
+- Outliers
+Ognuna prova per sè e poi rimettiamo insieme
+- Imbalanced Learning
+Ognuna prova per sè e poi rimettiamo insieme
+
+MODULO 2
+
+
+
