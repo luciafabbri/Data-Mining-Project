@@ -7,14 +7,14 @@ Entro il 05/06 Marzo: Modulo 2
 Consegna parziale progetto Mod 1 e 2: 20 Aprile
 
 MODULO 1
-- Data understading and preparation
+- Data understading and preparation (1.1)
 Tutte insieme, per decidere come trattare il dataset
-- Outliers
+- Outliers (1.2)
 Ognuna prova per sè e poi rimettiamo insieme
-- Imbalanced Learning
+- Imbalanced Learning (1.3)
 Ognuna prova per sè e poi rimettiamo insieme
 
 MODULO 2
 
-
+14/03: iniziare 1.1 data understanding and prep 
 
